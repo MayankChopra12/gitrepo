@@ -1,2 +1,2 @@
 # gitrepo
-using of git
+using of git and github
